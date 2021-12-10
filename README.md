@@ -8,6 +8,7 @@ This repository will contain the code for the paper:
 <br>
 <a href="">Chadi Salmi</a>,
 <a href="">Luzia Knoedler</a>,
+<a href="http://www.tudelft.nl/staff/h.zhu/">Hai Zhu</a>,
 <a href="http://www.tudelft.nl/staff/bruno.debrito/">Bruno Brito</a>,
 <a href="http://www.tudelft.nl/staff/j.alonsomora/">Javier Alonso-Mora</a>
 <br>
