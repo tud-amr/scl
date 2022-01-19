@@ -1,0 +1,7 @@
+image: cyberzoo-obstacles.png
+resolution: 0.140000
+origin: [-11.900000, -13.5000000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

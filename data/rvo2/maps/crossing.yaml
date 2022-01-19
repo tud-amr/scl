@@ -1,0 +1,9 @@
+free_thresh: 0.19
+image: crossing.png
+negate: 0
+occupied_thresh: 0.65
+origin:
+- -25
+- -25
+- 0
+resolution: 0.05

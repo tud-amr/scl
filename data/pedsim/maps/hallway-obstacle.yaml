@@ -1,0 +1,6 @@
+image: hallway-obstacle.png
+origin: [-11.0, -9.0, 0]
+resolution: 0.1200000715255737
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.2
