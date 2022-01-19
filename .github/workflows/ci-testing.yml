@@ -2,13 +2,13 @@ name: CI testing
 
 # see: https://help.github.com/en/actions/reference/events-that-trigger-workflows
 on:
-  # Trigger the workflow on push or pull request, but only for the master branch
+  # Trigger the workflow on push or pull request, but only for the main branch
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   pytest:
@@ -37,7 +37,7 @@ jobs:
         brew install libomp  # https://github.com/pytorch/pytorch/issues/20030
 
     # Note: This uses an internal pip API and may not always work
-    # https://github.com/actions/cache/blob/master/examples.md#multiple-oss-in-a-workflow
+    # https://github.com/actions/cache/blob/main/examples.md#multiple-oss-in-a-workflow
     - name: Get pip cache
       id: pip-cache
       run: |
