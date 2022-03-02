@@ -13,13 +13,13 @@ This repository contains the code for the paper:
 
 **<a href="https://arxiv.org">Improving Pedestrian Prediction Models with Self-Supervised Continual Learning</a>**
 <br>
+<a href="https://www.tudelft.nl/staff/l.knoedler/">Luzia Knoedler</a>,
 <a href="https://c-salmi.github.io/">Chadi Salmi</a>,
-<a href="">Luzia Knoedler</a>,
 <a href="http://www.tudelft.nl/staff/h.zhu/">Hai Zhu</a>,
 <a href="http://www.tudelft.nl/staff/bruno.debrito/">Bruno Brito</a>,
 <a href="http://www.tudelft.nl/staff/j.alonsomora/">Javier Alonso-Mora</a>
 <br>
-Accepted for publication in [RA-L + ICRA 2021].
+Accepted for publication in [RA-L + ICRA 2022].
 
 Autonomous mobile robots require accurate human motion predictions to safely and efficiently navigate among pedestrians, whose behavior may adapt to environmental changes. 
 This paper introduces a self-supervised continual learning framework to improve data-driven pedestrian prediction models online across various scenarios continuously. 
